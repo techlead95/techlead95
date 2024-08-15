@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<h3 align="center">This is the place where I opensource stuff and break things 🤣</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techlead95" alt="techlead95" /></a> </p>
 
-- 🔭 I’m currently working on **something cool 😉**
-
-- 🌱 I’m currently learning **Kotlin and Computer Vision**
+- 🌱 I’m currently learning **Kotlin and WebAssembly**
 
 - 💬 Ask me about **React, Vue, Java, and Python**
 
-- ⚡ Fun fact **I ❤️ 🏓 and ⚽**
+- ⚡ Fun fact **I ❤️ playing 🏓 and watching ⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
