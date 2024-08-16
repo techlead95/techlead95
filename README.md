@@ -1,7 +1,5 @@
 - 🌱 I’m currently learning **Kotlin and WebAssembly**
-
 - 💬 Ask me about **React, Vue, Java, and Python**
-
 - ⚡ Fun fact **I ❤️ playing 🏓 and watching ⚽**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +31,5 @@
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techlead95&show_icons=true&locale=en&layout=compact" alt="techlead95" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techlead95&show_icons=true&locale=en" alt="techlead95" /></p>
