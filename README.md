@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **Kotlin and WebAssembly**
+- 🌱 I’m currently learning **Rust and WebAssembly**
 - 💬 Ask me about **React, Vue, Java, and Python**
 - ⚡ Fun fact **I ❤️ playing 🏓 and watching ⚽**
 
